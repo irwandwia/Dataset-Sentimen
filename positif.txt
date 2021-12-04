@@ -610,3 +610,4 @@ manis
 manja
 manjur
 mantab
+mantap
